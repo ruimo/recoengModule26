@@ -1,5 +1,5 @@
 name := """recoengModule26"""
-organization := "com.example"
+organization := "com.ruimo"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
